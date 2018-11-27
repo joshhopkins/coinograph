@@ -16,7 +16,7 @@
 npm install --save coinograph
 ```
 
-## Usage {#usage}
+## Usage 
 
 **Note:** coinograph depends on [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch) being defined globally.
 
